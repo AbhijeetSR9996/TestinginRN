@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "887141328224",
+    "project_id": "rnnotifications-2d6f8",
+    "storage_bucket": "rnnotifications-2d6f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887141328224:android:5dd7e595a1239d09d9aa05",
+        "android_client_info": {
+          "package_name": "com.cloudnotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887141328224-r0e3f2s07meguedmk1g15vc5endnjain.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudnotificationapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "887141328224-ri0rpecei5moeov4fmqkf91lekmbupj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfE_suplXo_JVmPZW1g833eBgsVcFGPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887141328224-ri0rpecei5moeov4fmqkf91lekmbupj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
